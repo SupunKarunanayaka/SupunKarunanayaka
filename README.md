@@ -1,4 +1,6 @@
-### HELLO FLOCKS 👋
+[![Header](https://github.com/SupunKarunanayaka/SupunKarunanayaka/blob/main/Banner_Readme.jpg "Header")](https://some-url.dev/)
+
+### Hello, Folks! 👋
 
 <!--
 **SupunKarunanayaka/SupunKarunanayaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
