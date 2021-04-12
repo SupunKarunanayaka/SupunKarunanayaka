@@ -5,6 +5,7 @@
 My name is Supun Karunanayaka and I am a full-stack Data Scientist from Sri Lanka, with 5+ years of experience and working in the area of customer focus/facing product development. I have passion to combine novel scientific research with actionable engineering implementations that enable new products and experiences. You can find me on [![LinkedIn][1.1]][1].
 
 ## ⚙️ Technologies & Tools
+### 💻 Programming Languages
 ![](https://img.shields.io/badge/Code-Python-informational?style=plastic&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-R-informational?style=plastic&logo=R&logoColor=white&color=FFC107)
 
