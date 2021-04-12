@@ -12,7 +12,7 @@ My name is Supun Karunanayaka and I am a full-stack Data Scientist from Sri Lank
 ### ☁️ Cloud Computing
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=plastic&logo=microsoftazure&logoColor=white&color=2196F3)
 ![](https://img.shields.io/badge/Cloud-GCP-informational?style=plastic&logo=googlecloud&logoColor=white&color=EF5350)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=plastic&logo=AmazonAWSamplify&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=plastic&logo=amazonawsamplify&logoColor=white&color=2bbc8a)
 
 
 <!--
