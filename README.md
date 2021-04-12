@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <!-- icons without padding -->
 
-[1.1]: https://github.com/SupunKarunanayaka/SupunKarunanayaka/blob/main/linkedin.png (Linkedin icon)
+[1.1]: https://github.com/SupunKarunanayaka/SupunKarunanayaka/blob/main/LinkedIn.png (Linkedin icon)
 
 <!-- links to your social media accounts -->
 
