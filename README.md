@@ -6,7 +6,7 @@ My name is Supun Karunanayaka and I am a full-stack Data Scientist from Sri Lank
 
 ## ⚙️ Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=plastic&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-R-informational?style=plastic&logo=R&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-R-informational?style=plastic&logo=R&logoColor=white&color=2bbc8a&?color=FFC107)
 
 
 <!--
