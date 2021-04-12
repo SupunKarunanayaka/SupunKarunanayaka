@@ -9,6 +9,11 @@ My name is Supun Karunanayaka and I am a full-stack Data Scientist from Sri Lank
 ![](https://img.shields.io/badge/Code-Python-informational?style=plastic&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-R-informational?style=plastic&logo=R&logoColor=white&color=FFC107)
 
+### ☁️ Cloud Computing
+![](https://img.shields.io/badge/Cloud-Azure-informational?style=plastic&logo=microsoftazure&logoColor=white&color=2196F3)
+![](https://img.shields.io/badge/Cloud-GCP-informational?style=plastic&logo=googlecloud&logoColor=white&color=EF5350)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=plastic&logo=awsamplify&logoColor=white&color=2bbc8a)
+
 
 <!--
 **SupunKarunanayaka/SupunKarunanayaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
