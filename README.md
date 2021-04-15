@@ -14,6 +14,7 @@ My name is Supun Karunanayaka and I am a full-stack Data Scientist from Sri Lank
 ![](https://img.shields.io/badge/Cloud-GCP-informational?style=plastic&logo=google-cloud&logoColor=white&color=EF5350)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=plastic&logo=amazon-aws&logoColor=white&color=2bbc8a)
 
+### ☁️ Databases
 
 <!--
 **SupunKarunanayaka/SupunKarunanayaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
