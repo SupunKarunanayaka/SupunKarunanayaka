@@ -18,7 +18,7 @@ My name is Supun Karunanayaka and I am a full-stack Data Scientist from Sri Lank
 ![](https://img.shields.io/badge/SQL-MSSQL-informational?style=plastic&logo=microsoft-sql-server&logoColor=white&color=CC2927)
 ![](https://img.shields.io/badge/SQL-MySQL-informational?style=plastic&logo=mysql&logoColor=white&color=4479A1)
 ![](https://img.shields.io/badge/SQL-Oracle-informational?style=plastic&logo=oracle&logoColor=white&color=F80000)
-![](https://img.shields.io/badge/SQL-PostgreSQL-informational?style=plastic&logo=postgre-sql&logoColor=white&color=336791)
+![](https://img.shields.io/badge/SQL-PostgreSQL-informational?style=plastic&logo=postgresql&logoColor=white&color=336791)
 ![](https://img.shields.io/badge/NoSQL-MongoDB-informational?style=plastic&logo=mongodb&logoColor=white&color=47A248)
 ![](https://img.shields.io/badge/NoSQL-Cassandra-informational?style=plastic&logo=apache-cassandra&logoColor=white&color=1287B1)
 ![](https://img.shields.io/badge/NoSQL-HBase-informational?style=plastic&logo=amazon-aws&logoColor=white&color=2bbc8a)
