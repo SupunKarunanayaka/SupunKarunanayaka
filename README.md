@@ -15,6 +15,12 @@ My name is Supun Karunanayaka and I am a full-stack Data Scientist from Sri Lank
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=plastic&logo=amazon-aws&logoColor=white&color=2bbc8a)
 
 ### ☁️ Databases
+![](https://img.shields.io/badge/Structured-MSSQL-informational?style=plastic&logo=microsoft-azure&logoColor=white&color=2196F3)
+![](https://img.shields.io/badge/Structured-MySQL-informational?style=plastic&logo=google-cloud&logoColor=white&color=EF5350)
+![](https://img.shields.io/badge/Structured-Oracle-informational?style=plastic&logo=amazon-aws&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Unstructured-MongoDB-informational?style=plastic&logo=microsoft-azure&logoColor=white&color=2196F3)
+![](https://img.shields.io/badge/Unstructured-Cassandra-informational?style=plastic&logo=google-cloud&logoColor=white&color=EF5350)
+![](https://img.shields.io/badge/Unstructured-HBase-informational?style=plastic&logo=amazon-aws&logoColor=white&color=2bbc8a)
 
 <!--
 **SupunKarunanayaka/SupunKarunanayaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
