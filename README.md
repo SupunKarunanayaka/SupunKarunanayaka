@@ -24,7 +24,7 @@ My name is Supun Karunanayaka and I am a full-stack Data Scientist from Sri Lank
 ![](https://img.shields.io/badge/NoSQL-HBase-informational?style=plastic&logo=apache&logoColor=white&color=D22128)
 
 ### 📈 Data Visualization
-![](https://img.shields.io/badge/Vendor-PowerBI-informational?style=plastic&logo=powerbi&logoColor=white&color=F2C811)
+![](https://img.shields.io/badge/Vendor-PowerBI-informational?style=plastic&logo=power-bi&logoColor=white&color=F2C811)
 ![](https://img.shields.io/badge/Vendor-Tableau-informational?style=plastic&logo=tableau&logoColor=white&color=E97627)
 
 <!--
