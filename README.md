@@ -14,13 +14,13 @@ My name is Supun Karunanayaka and I am a full-stack Data Scientist from Sri Lank
 ![](https://img.shields.io/badge/Cloud-GCP-informational?style=plastic&logo=google-cloud&logoColor=white&color=EF5350)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=plastic&logo=amazon-aws&logoColor=white&color=2bbc8a)
 
-### ☁️ Databases
-![](https://img.shields.io/badge/Structured-MSSQL-informational?style=plastic&logo=microsoft-azure&logoColor=white&color=2196F3)
-![](https://img.shields.io/badge/Structured-MySQL-informational?style=plastic&logo=google-cloud&logoColor=white&color=EF5350)
-![](https://img.shields.io/badge/Structured-Oracle-informational?style=plastic&logo=amazon-aws&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Unstructured-MongoDB-informational?style=plastic&logo=microsoft-azure&logoColor=white&color=2196F3)
-![](https://img.shields.io/badge/Unstructured-Cassandra-informational?style=plastic&logo=apache-cassandra&logoColor=white&color=1287B1)
-![](https://img.shields.io/badge/Unstructured-HBase-informational?style=plastic&logo=amazon-aws&logoColor=white&color=2bbc8a)
+### 🛢️ Databases
+![](https://img.shields.io/badge/SQL-MSSQL-informational?style=plastic&logo=microsoft-sql-server&logoColor=white&color=CC2927)
+![](https://img.shields.io/badge/SQL-MySQL-informational?style=plastic&logo=mysql&logoColor=white&color=4479A1)
+![](https://img.shields.io/badge/SQL-Oracle-informational?style=plastic&logo=oracle&logoColor=white&color=F80000)
+![](https://img.shields.io/badge/NoSQL-MongoDB-informational?style=plastic&logo=mongodb&logoColor=white&color=47A248)
+![](https://img.shields.io/badge/NoSQL-Cassandra-informational?style=plastic&logo=apache-cassandra&logoColor=white&color=1287B1)
+![](https://img.shields.io/badge/NoSQL-HBase-informational?style=plastic&logo=amazon-aws&logoColor=white&color=2bbc8a)
 
 <!--
 **SupunKarunanayaka/SupunKarunanayaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
