@@ -21,7 +21,7 @@ My name is Supun Karunanayaka and I am a full-stack Data Scientist from Sri Lank
 ![](https://img.shields.io/badge/SQL-PostgreSQL-informational?style=plastic&logo=postgresql&logoColor=white&color=336791)
 ![](https://img.shields.io/badge/NoSQL-MongoDB-informational?style=plastic&logo=mongodb&logoColor=white&color=47A248)
 ![](https://img.shields.io/badge/NoSQL-Cassandra-informational?style=plastic&logo=apache-cassandra&logoColor=white&color=1287B1)
-![](https://img.shields.io/badge/NoSQL-HBase-informational?style=plastic&logo=amazon-aws&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/NoSQL-HBase-informational?style=plastic&logo=apache&logoColor=white&color=D22128)
 
 <!--
 **SupunKarunanayaka/SupunKarunanayaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
