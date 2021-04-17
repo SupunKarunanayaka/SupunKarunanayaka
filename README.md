@@ -8,6 +8,8 @@ My name is Supun Karunanayaka and I am a full-stack Data Scientist from Sri Lank
 ### 💻 Programming Languages
 ![](https://img.shields.io/badge/Code-Python-informational?style=plastic&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-R-informational?style=plastic&logo=R&logoColor=white&color=FFC107)
+![](https://img.shields.io/badge/Code-Scala-informational?style=plastic&logo=scala&logoColor=white&color=DC322F)
+![](https://img.shields.io/badge/Code-Julia-informational?style=plastic&logo=julia&logoColor=white&color=9558B2)
 
 ### ☁️ Cloud Computing
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=plastic&logo=microsoft-azure&logoColor=white&color=2196F3)
