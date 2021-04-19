@@ -26,6 +26,10 @@ My name is Supun Karunanayaka and I am a full-stack Data Scientist from Sri Lank
 ![](https://img.shields.io/badge/NoSQL-Cassandra-informational?style=plastic&logo=apache-cassandra&logoColor=white&color=1287B1)
 ![](https://img.shields.io/badge/NoSQL-HBase-informational?style=plastic&logo=apache&logoColor=white&color=D22128)
 
+### 🛢️ Deep Learning Frameworks
+![](https://img.shields.io/badge/DL-Tensorflow-informational?style=plastic&logo=tensorflow&logoColor=white&color=CC2927)
+![](https://img.shields.io/badge/DL-PyTorch-informational?style=plastic&logo=pytourch&logoColor=white&color=CC2927)
+
 ### 📈 Data Visualization
 ![](https://img.shields.io/badge/Vendor-PowerBI-informational?style=plastic&logo=power-bi&logoColor=white&color=F2C811)
 ![](https://img.shields.io/badge/Vendor-Tableau-informational?style=plastic&logo=tableau&logoColor=white&color=E97627)
