@@ -2,7 +2,7 @@
 
 # Hello, Folks! <img src="https://github.com/SupunKarunanayaka/SupunKarunanayaka/blob/main/wave.gif" width="30px">
 
-My name is Supun Karunanayaka and I am a full-stack Data Scientist from Sri Lanka, with 5+ years of experience and working in the area of customer focus/facing product development. I have passion to combine novel scientific research with actionable engineering implementations that enable new products and experiences. You can find me on [![LinkedIn][1.1]][1].
+My name is Supun Karunanayaka and I'm a forward-thinking strategist and a data scientist with nearly 8 years of experience in developing, and driving businesses, operations, data-centric plans and projects successfully. Demonstrated abilities to think outside the box and challenge the status quo to create innovative solutions that achieve objectives. Excels at leading cross-functional teams and building consensus. You can find me on [![LinkedIn][1.1]][1].
 
 ## ⚙️ Technologies & Tools
 ### 💻 Programming Languages
